@@ -1,1 +1,6 @@
-define(['jquery'], function ($) {});
+define([
+	'jquery',
+	'angular'
+], function ($, angular) {
+	
+});
