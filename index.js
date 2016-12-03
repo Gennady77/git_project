@@ -1,3 +1,4 @@
 define(['angular'], function(angular) {
-	angular.module('mdui', []);
+	angular.module('mdui', [])
+		.directory();
 });
