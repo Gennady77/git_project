@@ -1,4 +1,4 @@
 define(['angular'], function(angular) {
 	angular.module('mdui', [])
-		.directory();
+		.directory('mdui.columnSelctor', function() {});
 });
